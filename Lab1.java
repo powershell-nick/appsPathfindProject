@@ -7,6 +7,9 @@
  * UTSA CS 3443 - Lab 1
  * Fall 2019
  */
+
+ //Adding random comments
+ // is really cool
 public class Lab1 {
 
 	public static void main( String[] args ) {
