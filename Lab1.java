@@ -3,7 +3,7 @@
  * This class will not compile until you have completed the requirements outlined in 
  * the lab description.
  * 
- * @author Imtiaz Muhammad Arafat (abc123)
+ * @author Nicholas Calzada (emy990)
  * UTSA CS 3443 - Lab 1
  * Fall 2019
  */
