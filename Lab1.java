@@ -10,6 +10,8 @@
 
  //Adding random comments
  // is really cool
+ // Adding more comments
+ // is even cooler
 public class Lab1 {
 
 	public static void main( String[] args ) {
