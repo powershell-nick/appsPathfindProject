@@ -12,6 +12,8 @@
  // is really cool
  // Adding more comments
  // is even cooler
+ // more comments
+ // wow
 public class Lab1 {
 
 	public static void main( String[] args ) {
