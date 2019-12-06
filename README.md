@@ -1,4 +1,4 @@
-# appsPathfindProject
+# UTSA Pathfinder
 Apps Fall 2019 Project CS3443
 
 The general purpose of this application is to calculate a visual pathway from one building to a specified destination building in UTSA.
